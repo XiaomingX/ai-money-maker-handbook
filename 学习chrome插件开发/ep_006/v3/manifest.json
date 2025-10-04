@@ -1,0 +1,16 @@
+{
+  "name": "Test",
+  "description": "Manifest V3 Test",
+  "version": "0.1.106",
+  "permissions": ["contextMenus", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "js": ["js/content.js"],
+      "matches": ["*://*/*"]
+    }
+  ],
+  "background": { "service_worker": "background.js" },
+  "web_accessible_resources": ["/html/scrape.html"],
+  "manifest_version": 3
+}

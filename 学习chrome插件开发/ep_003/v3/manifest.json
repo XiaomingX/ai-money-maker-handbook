@@ -1,0 +1,17 @@
+{
+  "version": "0.0.103",
+  "name": "Test",
+  "description": "Manifest V3 Test",
+  "host_permissions": ["*://*/*"],
+  "action": {
+    "default_title": "MV3Test",
+    "default_popup": "html/popup.html"
+  },
+  "content_scripts": [
+    {
+      "js": ["js/content.js"],
+      "matches": ["*://*/*"]
+    }
+  ],
+  "manifest_version": 3
+}
