@@ -27,35 +27,38 @@
 
 🧠 [世界上覆盖最全的优秀Qwen提示语大全](https://github.com/XiaomingX/awesome-qwen-prompt-insight)
 
-```
-写给 0-1 岁的初创公司合伙人 (0)：什么是 MAU 指标，什么是 ARR、PMF - https://blog.csdn.net/2408_89348881/article/details/154359112
-写给 0-1 岁的初创公司合伙人 (1)：可转债和可转换优先股区别 - https://juejin.cn/post/7569810118169690127
-写给 0-1 岁的初创公司合伙人 (2)：新型融资工具 SAFE 的定义和方案 - https://juejin.cn/post/7570184234070573056
-写给 0-1 岁的初创公司合伙人 (3)：出海产品运营的推广渠道 - https://juejin.cn/post/7569960869959417902
-写给 0-1 岁的初创公司合伙人 (4)：应用发布上线启动前的自查清单 - https://juejin.cn/post/7570213477949636660
-写给 0-1 岁的初创公司合伙人 (5)：出海常用技术栈组合 - https://juejin.cn/post/7570341520550969359
-写给 0-1 岁的初创公司合伙人 (6)：一文看懂：天使轮、A 轮、B 轮… 创业公司的融资轮次到底是啥？ - https://juejin.cn/post/7571734313923231778
-写给 0-1 岁的初创公司合伙人 (7)：LTV/CAC ＞ 3？详解单位经济模型的健康度 - https://blog.csdn.net/2408_89348881/article/details/155064714
-写给 0-1 岁的初创公司合伙人 (8)：定价权的艺术 —— 从成本加成到价值定价 - https://blog.csdn.net/2408_89348881/article/details/155064842
-写给 0-1 岁的初创公司合伙人 (10)：VIE 架构（可变利益实体）的红线与红利 - https://juejin.cn/post/7574382900860190747
-写给 0-1 岁的初创公司合伙人 (11)：烧钱率（Burn Rate）与 “死亡谷” 的现金流规划 - https://blog.csdn.net/2408_89348881/article/details/155064274
-写给 0-1 岁的初创公司合伙人 (12)：网络效应与规模效应的区别 —— 为何有些 SaaS 无法指数增长 - https://blog.csdn.net/2408_89348881/article/details/155064361
-写给 0-1 岁的初创公司合伙人 (13)：PLG（产品驱动增长）与 SLG（销售驱动增长）的组织基因差异 - https://blog.csdn.net/2408_89348881/article/details/155064459
-写给 0-1 岁的初创公司合伙人 (14)：留存率（Retention）—— 比拉新更重要的 “复利” 指标 - https://blog.csdn.net/2408_89348881/article/details/155064587
-写给 0-1 岁的初创公司合伙人 (15)：GDPR 与 CCPA—— 出海合规的 “核按钮” - https://juejin.cn/post/7574625040659529778
-写给 0-1 岁的初创公司合伙人 (16)：创始人协议与动态股权分配（Dynamic Equity Split） - https://juejin.cn/post/7574568258802139163
-写给 0-1 岁的初创公司合伙人 (17)：ODI（境外直接投资）备案与资金出境合规路径 - https://juejin.cn/post/7574600119749885962
-写给 0-1 岁的初创公司合伙人 (20)：全球支付通道对比——Stripe, PayPal与本地化钱包的费率陷阱 - https://blog.csdn.net/2408_89348881/article/details/155094962
-写给 0-1 岁的初创公司合伙人 (21)：知识产权（IP）布局 —— 商标、专利与开源协议的风险 - https://juejin.cn/post/7574620713228075059
-写给 0-1 岁的初创公司合伙人 (22)：尽职调查（Due Diligence）清单 ——VC 到底在查什么？ - https://juejin.cn/post/7574568258802122779
-写给 0-1 岁的初创公司合伙人 (24)：能力圈边界 —— 什么时候该转型，什么时候该坚持 - https://juejin.cn/post/7574620713227829299
-写给 0-1 岁的初创公司合伙人 (25)：招聘中的 “护城河”—— 如何识别雇佣兵与传教士 - https://juejin.cn/post/7574600119749738506
-写给 0-1 岁的初创公司合伙人 (26)：并购（M&A）与 IPO—— 退出的逻辑与时机选择 - https://juejin.cn/post/7574600119749754890
-写给 0-1 岁的初创公司合伙人 (27)：品牌资产 —— 在算法推荐时代重构用户心智 - https://juejin.cn/post/7574382900860485659
-写给 0-1 岁的初创公司合伙人 (28)：跨文化管理的熵增 —— 如何管理不同时区的团队 - https://juejin.cn/post/7574625040659660850
-写给 0-1 岁的初创公司合伙人 (29)：复盘与决策日志 —— 如何避免认知偏差（Bias） - https://juejin.cn/post/7574382925762215974
-写给 0-1 岁的初创公司合伙人 (30)：长期贪婪 —— 建立基于诚信的商业声誉 - https://juejin.cn/post/7574584245152399411
-```
+# 写给 0-1 岁的初创公司合伙人 系列文章汇总
+1. [什么是 MAU 指标，什么是 ARR、PMF](https://blog.csdn.net/2408_89348881/article/details/154359112)
+2. [可转债和可转换优先股区别](https://juejin.cn/post/7569810118169690127)
+3. [新型融资工具 SAFE 的定义和方案](https://juejin.cn/post/7570184234070573056)
+4. [出海产品运营的推广渠道](https://juejin.cn/post/7569960869959417902)
+5. [应用发布上线启动前的自查清单](https://juejin.cn/post/7570213477949636660)
+6. [出海常用技术栈组合](https://juejin.cn/post/7570341520550969359)
+7. [一文看懂：天使轮、A 轮、B 轮… 创业公司的融资轮次到底是啥？](https://juejin.cn/post/7571734313923231778)
+8. [LTV/CAC ＞ 3？详解单位经济模型的健康度](https://blog.csdn.net/2408_89348881/article/details/155064714)
+9. [定价权的艺术 —— 从成本加成到价值定价](https://blog.csdn.net/2408_89348881/article/details/155064842)
+10. [股权激励（ESOP）设计的陷阱与 “三个篮子” 理论](https://juejin.cn/spost/7574725286529335347)
+11. [VIE 架构（可变利益实体）的红线与红利](https://juejin.cn/post/7574382900860190747)
+12. [烧钱率（Burn Rate）与 “死亡谷” 的现金流规划](https://blog.csdn.net/2408_89348881/article/details/155064274)
+13. [网络效应与规模效应的区别 —— 为何有些 SaaS 无法指数增长](https://blog.csdn.net/2408_89348881/article/details/155064361)
+14. [PLG（产品驱动增长）与 SLG（销售驱动增长）的组织基因差异](https://blog.csdn.net/2408_89348881/article/details/155064459)
+15. [留存率（Retention）—— 比拉新更重要的 “复利” 指标](https://blog.csdn.net/2408_89348881/article/details/155064587)
+16. [GDPR 与 CCPA—— 出海合规的 “核按钮”](https://juejin.cn/post/7574625040659529778)
+17. [创始人协议与动态股权分配（Dynamic Equity Split）](https://juejin.cn/post/7574568258802139163)
+18. [ODI（境外直接投资）备案与资金出境合规路径](https://juejin.cn/post/7574600119749885962)
+19. [董事会的博弈——如何管理你的投资人](https://blog.csdn.net/2408_89348881/article/details/155096399)
+20. [反稀释条款与估值下调融资（Down Round）的生存指南](https://blog.csdn.net/2408_89348881/article/details/155096690)
+21. [全球支付通道对比——Stripe, PayPal与本地化钱包的费率陷阱](https://blog.csdn.net/2408_89348881/article/details/155094962)
+22. [知识产权（IP）布局 —— 商标、专利与开源协议的风险](https://juejin.cn/post/7574620713228075059)
+23. [尽职调查（Due Diligence）清单 ——VC 到底在查什么？](https://juejin.cn/post/7574568258802122779)
+24. [逆向思考法——预演你的公司是如何倒闭的](https://blog.csdn.net/2408_89348881/article/details/155096946)
+25. [能力圈边界 —— 什么时候该转型，什么时候该坚持](https://juejin.cn/post/7574620713227829299)
+26. [招聘中的 “护城河”—— 如何识别雇佣兵与传教士](https://juejin.cn/post/7574600119749738506)
+27. [并购（M&A）与 IPO—— 退出的逻辑与时机选择](https://juejin.cn/post/7574600119749754890)
+28. [品牌资产 —— 在算法推荐时代重构用户心智](https://juejin.cn/post/7574382900860485659)
+29. [跨文化管理的熵增 —— 如何管理不同时区的团队](https://juejin.cn/post/7574625040659660850)
+30. [复盘与决策日志 —— 如何避免认知偏差（Bias）](https://juejin.cn/post/7574382925762215974)
+31. [长期贪婪 —— 建立基于诚信的商业声誉](https://juejin.cn/post/7574584245152399411)
 
 ## AI技术赚钱思路分享
 ### 技术赚钱的一些认知
